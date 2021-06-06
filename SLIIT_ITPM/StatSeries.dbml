@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ITP_SLIIT" Class="StatSeriesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-V4C47V9L;Initial Catalog=ITP_SLIIT;Integrated Security=True" SettingsObjectName="SLIIT_ITPM.Properties.Settings" SettingsPropertyName="ITP_SLIITConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.vmcount" Member="vmcounts">
+    <Type Name="vmcount">
+      <Column Name="std_count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="lec_count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

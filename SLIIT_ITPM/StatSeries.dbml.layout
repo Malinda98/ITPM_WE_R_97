@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="StatSeries">
+  <DataContextMoniker Name="/StatSeriesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="415884c1-1815-409b-9a85-13c91f7cdb07" absoluteBounds="3, 2.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/StatSeriesDataContext/vmcount" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e8a457f0-1bb4-4b7a-a39a-f74e9e466e91" absoluteBounds="3.015, 2.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
